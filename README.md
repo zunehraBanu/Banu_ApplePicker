@@ -1,8 +1,6 @@
 # 🍎 Apple Picker (CS382 Game Design, Development & Technology)
 
 - **Play Online (WebGL):** https://zunehrabanu.github.io/Banu_ApplePicker/
-- **GitHub Repository:** https://github.com/zunehraBanu/Banu_ApplePicker
-
 ---
 
 ## 🎯 Overview
